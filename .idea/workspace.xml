@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="782106af-2d5f-489e-96fb-e9fb10ebecfd" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart/Chart.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,13 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ken-chen-91/covid-19" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1m2go0H9gusKzlZNK3mZ74v6YLB" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -22,6 +30,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -33,7 +42,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -82,6 +91,11 @@
       <workItem from="1608698923036" duration="62000" />
       <workItem from="1608698996642" duration="2006000" />
       <workItem from="1608701027467" duration="875000" />
+      <workItem from="1608703930512" duration="291000" />
+      <workItem from="1608704233704" duration="243000" />
+      <workItem from="1608704487892" duration="158000" />
+      <workItem from="1608704664232" duration="104000" />
+      <workItem from="1608704771845" duration="498000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608703860018</created>
@@ -90,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608703860018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1608704168307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608704168307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +127,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
